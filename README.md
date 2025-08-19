@@ -1,7 +1,5 @@
 ## Hi there 👋 I'm Helium-Studio
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Helium-Studio&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&show=prs_merged,prs_merged_percentage&locale=cn" />
-
 - 🏠 I'm a junior high school student.
 - 🔭 I’m currently working on custom kernel development.
 - 🌱 I’m currently learning C/C++.
