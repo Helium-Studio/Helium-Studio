@@ -1,5 +1,7 @@
 ## Hi there 👋 I'm Helium-Studio
 
+<img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=Helium-Studio&show_icons=true" />
+
 - 🏠 I'm a junior high school student.
 - 🔭 I’m currently working on custom kernel development.
 - 🌱 I’m currently learning C/C++.
